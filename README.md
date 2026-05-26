@@ -36,7 +36,7 @@ I am a highly analytical developer and architect with a unique background spanni
 
 ### 🚀 Featured Projects
 
-#### 1. [AI Prompt Security & Evaluation Sandbox](https://github.com/yourusername/ai-evaluation-sandbox)
+#### 1. [AI Prompt Security & Evaluation Sandbox](https://github.com/jhp7786-art/ai-evaluation-sandbox)
 * **Tech Stack:** Python, JavaScript, HTML/CSS, Git
 * **Description:** A locally-hosted, zero-trust evaluation engine that intercepts AI prompts, scans them for malicious injection attacks, and scores them based on structural integrity and boundary constraints before deployment.
 
