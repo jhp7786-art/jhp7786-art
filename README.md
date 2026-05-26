@@ -6,7 +6,7 @@ I am a highly analytical developer and architect with a unique background spanni
 
 📍 **Based in:** Henagar, Alabama
 💼 **Pronouns:** He/Him
-🔗 **Connect:** [Add your LinkedIn URL here]
+🔗 **Connect:** [www.linkedin.com/in/jeff-henegar-7776973a9]
 
 ---
 
@@ -21,6 +21,7 @@ I am a highly analytical developer and architect with a unique background spanni
 **Salesforce**
 * Salesforce Certified Administrator
 * Salesforce Certified Platform App Builder
+* Salesforce Certified Platform Developer I (PD1)
 * Salesforce Certified Agentforce Specialist
 
 **Google & AWS**
@@ -29,6 +30,8 @@ I am a highly analytical developer and architect with a unique background spanni
 * Google AI Professional
 * AWS Cloud & AI Practitioner
 
+**Currently Pursuing**
+* Salesforce Data Cloud Consultant/ Data Architect
 ---
 
 ### 🚀 Featured Projects
